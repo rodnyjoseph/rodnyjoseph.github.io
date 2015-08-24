@@ -1,0 +1,15 @@
+body{
+    backgroud-color: #gray
+    font-family: Arial;
+    
+}
+
+.container{
+    padding: 10px 10px 10px 10px;
+    margin-top: 50px;
+    margin-bottom:500px;
+    margin-right:50 px;
+    margin-left:50px;
+    background-color: white;
+    
+}
